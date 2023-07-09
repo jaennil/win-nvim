@@ -4,3 +4,4 @@ vim.opt.relativenumber = true
 vim.opt.hlsearch = false
 vim.opt.shiftwidth = 4
 
+vim.g.mapleader = ' '
