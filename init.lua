@@ -5,3 +5,5 @@ vim.opt.hlsearch = false
 vim.opt.shiftwidth = 4
 
 vim.g.mapleader = ' '
+
+vim.keymap.set('n', '<leader>a', ':keepjumps normal! ggVG<cr>')
